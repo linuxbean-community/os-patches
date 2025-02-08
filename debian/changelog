@@ -1,3 +1,10 @@
+live-config (3.0.23-1+deb8u2) trusty; urgency=low
+
+  * Revive experimental systemd and upstart backends to allow building images
+    with upstart.
+
+ -- Ryo Nakano <ryonakaknock3@gmail.com>  Sat, 08 Feb 2025 17:24:52 +0900
+
 live-config (3.0.23-1+deb8u1) unstable; urgency=low
 
   * Removing experimental systemd and upstart backends (Closes: #726536).
